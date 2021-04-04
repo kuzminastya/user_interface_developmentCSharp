@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab1_V1_Kuzmina/1.0.0": {
+        "dependencies": {
+          "Lab2_V1_2_Kuzmina": "1.0.0"
+        },
+        "runtime": {
+          "Lab1_V1_Kuzmina.dll": {}
+        }
+      },
+      "Lab2_V1_2_Kuzmina/1.0.0": {
+        "runtime": {
+          "Lab2_V1_2_Kuzmina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1_V1_Kuzmina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab2_V1_2_Kuzmina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
